@@ -32,7 +32,7 @@ dependencies {
     implementation 'com.google.firebase:firebase-messaging:17.3.4'
     implementation 'com.firebase:firebase-client-android:2.5.0'
 
-    implementation 'com.firebase:firebase-jobdispatcher:0.8.5'
+    implementation 'com.firebase:firebase-jobdispatcher:0.8.5' // Firebase jobDispatcher
 }
 
 apply plugin: 'com.google.gms.google-services' //firebase notification
